@@ -5,7 +5,7 @@ install! 'cocoapods',
 
 
 target 'AGFrameworkDemo' do
-  pod 'AGIOSFramework', :podspec=>'https://raw.githubusercontent.com/AganTechnology/AGIOSFramework/main/AGIOSFramework.podspec'
+  pod 'AGEngineKits', :podspec=>'https://raw.githubusercontent.com/AganTechnology/AGIOSFramework/main/AGEngineKit.podspec'
   pod 'Alamofire'
 
 end

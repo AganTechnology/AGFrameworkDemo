@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import AGFramework
+import AGEngineKit
 
 class AMapMoudle : NSObject, AGEngineLocationProvider {
     

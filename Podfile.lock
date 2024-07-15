@@ -1,11 +1,11 @@
 PODS:
-  - AGIOSFramework (2.0.0):
+  - AGEngineKits (2.0.0):
     - AliyunOSSiOS
   - Alamofire (5.9.1)
   - AliyunOSSiOS (2.10.22)
 
 DEPENDENCIES:
-  - AGIOSFramework (from `https://raw.githubusercontent.com/AganTechnology/AGIOSFramework/main/AGIOSFramework.podspec`)
+  - AGEngineKits (from `https://raw.githubusercontent.com/AganTechnology/AGIOSFramework/main/AGEngineKit.podspec`)
   - Alamofire
 
 SPEC REPOS:
@@ -14,14 +14,14 @@ SPEC REPOS:
     - AliyunOSSiOS
 
 EXTERNAL SOURCES:
-  AGIOSFramework:
-    :podspec: https://raw.githubusercontent.com/AganTechnology/AGIOSFramework/main/AGIOSFramework.podspec
+  AGEngineKits:
+    :podspec: https://raw.githubusercontent.com/AganTechnology/AGIOSFramework/main/AGEngineKit.podspec
 
 SPEC CHECKSUMS:
-  AGIOSFramework: c4205164f3d46197dabf2e175311e0dfc51ec8f5
+  AGEngineKits: 8777483d800df3cff272dc9aa6aa319a928b581d
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
   AliyunOSSiOS: b46648fd78909a567e3743fe94183748a407b175
 
-PODFILE CHECKSUM: c8162917aa2937d219c9f8f7b1662aa3f216a460
+PODFILE CHECKSUM: 947c1337bf9b0125c64e6e1819091094e6c3b1c2
 
 COCOAPODS: 1.15.2
