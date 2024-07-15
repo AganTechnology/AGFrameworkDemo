@@ -6,7 +6,7 @@ install! 'cocoapods',
 
 
 target 'AGFrameworkDemo' do
-  pod 'AGEngineKits'
+  pod 'AGEngineKits', '~> 2.0.0'
   pod 'Alamofire'
 
 end
