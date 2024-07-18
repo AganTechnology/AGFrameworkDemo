@@ -1,11 +1,11 @@
 PODS:
-  - AGEngineKits (2.0.0):
+  - AGEngineKits (2.2.0):
     - AliyunOSSiOS
   - Alamofire (5.9.1)
   - AliyunOSSiOS (2.10.22)
 
 DEPENDENCIES:
-  - AGEngineKits (~> 2.0.0)
+  - AGEngineKits (~> 2.2.0)
   - Alamofire
 
 SPEC REPOS:
@@ -15,10 +15,10 @@ SPEC REPOS:
     - AliyunOSSiOS
 
 SPEC CHECKSUMS:
-  AGEngineKits: 1fd2ee5df5afb0e1a98564846ef5681366383cb4
+  AGEngineKits: ad022bfc63917bc75042138d3199edc7ab287d33
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
   AliyunOSSiOS: b46648fd78909a567e3743fe94183748a407b175
 
-PODFILE CHECKSUM: 2f8b7b55a05debdcb2d102f4aa15899f6a63f11a
+PODFILE CHECKSUM: aa57550aaeb3ffe447edf1a07fe168bdf085c5c1
 
 COCOAPODS: 1.15.2

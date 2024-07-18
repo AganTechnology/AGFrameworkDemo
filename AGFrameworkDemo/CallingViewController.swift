@@ -30,6 +30,7 @@ class CallingViewController: UIViewController, AGEngineCallDelegate {
         handfreeButton.setTitle("免提", for: .normal)
         handfreeButton.setTitle("已免提", for: .selected)
         call = AGEngineKit.sharedEngine().callPhone(phone, callDelegate: self)
+//        call = AGEngineKit.sharedEngine().callPhone(phone, payload: "", callDelegate: self)
         updateState()
         
     }
